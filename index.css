@@ -1,0 +1,238 @@
+body{
+    background-color: rgb(238, 237, 237);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    background-color: rgb(23, 112, 153);
+    height: 40px;
+    display: flex;
+    position: relative;
+    top: -10px;
+    left:-10px;
+    width: 1120px;
+    word-spacing: 20px;
+    padding-left: 150px;
+    padding-top: 23px;
+    padding-bottom: 28px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+img{
+    width: 70px;
+    height: 60px;
+    padding-bottom: 20px;
+}
+.od{
+    text-decoration: none;
+    color: white;
+    word-spacing: 0px;
+}
+.me{
+    text-decoration: none;
+    color: white;
+}
+.de{
+    text-decoration: none;
+    color: white;
+}
+.st{
+    text-decoration: none;
+    color: white;
+}
+.tr{
+    text-decoration: none;
+    color: white;
+}
+.top{
+    padding-left: 20px;
+    position: relative;
+    top:20px;
+}
+.sn{
+    word-spacing: 0px;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+.sl{
+    padding-left: 250px;
+    color: white;
+}
+/* button{
+    background-color: rgb(218, 47, 47);
+    color: white;
+    position:relative;
+    left: 20px;
+    border-radius: 17px;
+} */
+.hd{
+    display: flex;
+    word-spacing: 7px;
+    position: relative;
+    left: 250px;
+    top: 18px;
+    margin-block-end: 30px;
+}
+.dash{
+    position: relative;
+    right: 100px;
+    color: gray;
+}
+.or{
+    position: relative;
+    left: -20px;
+    top: -7px;
+    color: gray;
+}
+.co{
+    position: relative;
+    left: 50px;
+}
+.dah{
+    position: relative;
+    left: 50px;
+
+}
+.sy{
+    color: rgb(23, 112, 153);
+    position: relative;
+    right: 70px;
+    top:-2px
+}
+.delivery{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(236, 15, 59);
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: -10px;
+    position: relative;
+    top: 4px;
+    left: -40px;
+    transition: color 0.5;
+}
+.carry{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(236, 15, 59);
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 15px;
+    padding-bottom: -10px;
+    position: relative;
+    top:5px;
+
+}
+.jp{
+    width: 670px;
+    height: 600px;
+    padding-left: 145px;
+}
+.images{
+    display:block;
+}
+.pa{
+    width:250px;
+    height: 290px;
+    position: relative;
+    bottom: 310px;
+    padding-left: 20px;
+}
+.th{
+    width: 250px;
+    height:290px;
+    position:relative;
+    left: 840px;
+    bottom: 315px;
+}
+.by{
+    width:945px;
+    height: 150px;
+    position: relative;
+    bottom: 300px;
+    right: 109px;
+    top: -150px
+
+}
+.times{
+    display: flex;
+    background-color: white;
+    width: 945px;
+    height: 150px;
+    position: relative;
+    bottom: 160px;
+    left: 145px;
+}
+.creating{
+    color: rgb(100, 98, 98);
+    padding-left: 200px;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.two{
+    background-color: rgb(23, 112, 153);
+    color: white;
+    border-radius: 10px;
+    font-size: 110px;
+    width: 60px;
+    height: 120px;
+    position: relative;
+    bottom: 75px;
+    left: 35px;
+    padding-left: 5px;
+}
+.five{
+    background-color: rgb(236, 15, 59);
+    color: white;
+    border-radius: 10px;
+    font-size: 110px;
+    width: 60px;
+    height: 120px;
+    position: relative;
+    bottom: 75px;
+    left: 40px;
+    padding-left: 8px;
+}
+.mins{
+    position: relative;
+    left:50px;
+    padding-top: 20px;
+    color: rgb(236, 15, 59);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.int{
+    text-decoration: none;
+    color: black;
+}
+.cnt{
+    text-decoration: none;
+    color: black;
+}
+.abt{
+    text-decoration: none;
+    color: black;
+}
+.faq{
+    text-decoration: none;
+    color: black;
+}
+footer{
+    background-color: gray;
+    width: 1300px;
+    height: 500px;
+
+}
+
+/* .card{
+    width: 500px;
+    height: 400px;
+    background-color: blue;
+} */
